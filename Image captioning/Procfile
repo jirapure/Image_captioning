@@ -1,0 +1,1 @@
+web: gunicorn word_count3:app
